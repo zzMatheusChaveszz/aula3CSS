@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    background-color: #1b1569;
+    color: aliceblue;
+    height: 12vh;
+}
+
+a {
+    color: #fff;
+    font-size: 70px;
+    font-style: italic;
+}
+
+p {
+    color: rgb(228, 228, 238);
+    background-color: #282680;
+    width: 30vh;
+    margin: 70px;
+}
+
+.minhaSegClass {
+    background-color: #1324b8
+}
+
+.minhaTerClass {
+    background-color: #2a63cc;
+}
+
+footer {
+    font-size: 20px;
+    background-color: rgb(54, 56, 187);
+    color: hsl(280, 12%, 90%);
+    height: 12vh;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
